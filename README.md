@@ -1,8 +1,8 @@
-#Overview
+- Overview
 
 This project is an interactive Sales Dashboard created using Power BI. It provides insights into revenue, sales quantity, top-performing markets, products, and customers.
 
-#Features
+- Features
 
 Total Revenue & Sales Quantity overview
 
@@ -14,15 +14,15 @@ Top 5 Products
 
 Top 5 Customers
 
-#Tools & Technologies
+- Tools & Technologies
 
 Power BI
 
 Data Visualization
 
-##Dashboard Preview
+- Dashboard Preview
 
-#How to Use
+- How to Use
 
 Clone this repository
 
@@ -30,7 +30,7 @@ Open the .pbix file in Power BI Desktop
 
 Explore and interact with the dashboard
 
-#Insights
+- Insights
 
 Delhi NCR is the top-performing market
 
