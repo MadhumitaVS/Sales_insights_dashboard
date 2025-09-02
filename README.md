@@ -30,7 +30,7 @@ Open the .pbix file in Power BI Desktop
 
 Explore and interact with the dashboard
 
-📌 Insights
+**Insights**
 
 Delhi NCR is the top-performing market
 
